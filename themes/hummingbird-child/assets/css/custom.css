@@ -1,0 +1,14 @@
+/* Hummingbird Child overrides */
+
+.product-additional-info {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.product-additional-info h4 {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}

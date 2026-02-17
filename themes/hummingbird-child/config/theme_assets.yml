@@ -1,0 +1,7 @@
+assets:
+  css:
+    all:
+      - id: hummingbird-child-custom
+        path: assets/css/custom.css
+        media: all
+        priority: 200
