@@ -1,14 +1,36 @@
-/* Hummingbird Child overrides */
+/* Hummingbird child customizations */
 
-.product-additional-info {
-  margin-top: 1rem;
-  padding: 1rem;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  background: #f9f9f9;
+.child-theme-banner {
+  background: #1f2937;
+  color: #fff;
+  text-align: center;
+  padding: 0.45rem 1rem;
+  font-size: 0.8125rem;
+  letter-spacing: 0.02em;
 }
 
-.product-additional-info h4 {
-  margin-bottom: 0.5rem;
+.child-theme-footer-note {
+  display: inline-block;
+  margin-left: 0.5rem;
+  color: #6b7280;
+  font-size: 0.875rem;
+}
+
+.product-delivery-info {
+  margin-top: 0.9rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  background: #f8fafc;
+}
+
+.product-delivery-info__title {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
   font-weight: 600;
+}
+
+.product-delivery-info__text {
+  margin: 0;
+  color: #374151;
 }
